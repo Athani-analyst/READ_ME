@@ -1,6 +1,14 @@
-# READ_ME
-👋 Hi, I’m @Athani_analyst
-👀 I’m interested in Deep Learning
-🌱 I’m currently learning ...
-🕶 I’m looking to collaborate on ...ML and DL projects
-📫 How to reach me ..manjunathathani97@gmail.com
+Hi, I am Manjunath Athani, Postgraduate in  Economics, a lifetime learner, currently working as data analyst in Louis Dreyfus Company. Research and learning new technologies are two of my greatest passions.
+
+Below is a snapshot of my journey so far,
+- Completed my graduation in Agriculture and did a master's in Economics.
+- Worked as a technical data analyst In NSRC, UAS, Bangalore 
+-Completed Certification Program in Python, Machine Learning, Tableau, SQL Learning from iDmine Institute, Bengaluru.
+-Working on  credit card default internship in iNeuron company 
+-Worked independently on ML models  development and deployed on various cloud platforms. 
+
+I am skilled in Python, SQL, Tableau, Machine Learning, Deep Learning and NLP also have a strong background in Mathematics and Statistics.
+
+Check out my GitHub profile: https://github.com/Athani-analyst
+I am reachable on : manjunathathani97@gmail.com
+Mobil: 9480113241
