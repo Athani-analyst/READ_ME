@@ -12,10 +12,10 @@ Below is a snapshot of my journey so far,
 
 -Worked independently on ML models  development and deployed on various cloud platforms. 
 
-I am skilled in Python, SQL, Tableau, Machine Learning, Deep Learning and NLP also have a strong background in Mathematics and Statistics.
+-I am skilled in Python, SQL, Tableau, Machine Learning, Deep Learning and NLP also have a strong background in Mathematics and Statistics.
 
-Check out my GitHub profile: https://github.com/Athani-analyst
+=Check out my GitHub profile: https://github.com/Athani-analyst
 
-I am reachable on : manjunathathani97@gmail.com
+=I am reachable on : manjunathathani97@gmail.com
 
-Mobil: 9480113241
+=Mobil: 9480113241
