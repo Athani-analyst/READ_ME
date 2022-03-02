@@ -2,9 +2,9 @@ Hi, I am Manjunath Athani, Postgraduate in  Economics, a lifetime learner, curre
 
 Below is a snapshot of my journey so far,
 
-- Completed my graduation in Agriculture and did a master's in Economics.
+-Completed my graduation in Agriculture and did a master's in Economics.
 
-- Worked as a technical data analyst In NSRC, UAS, Bangalore 
+-Worked as a technical data analyst In NSRC, UAS, Bangalore 
 
 -Completed Certification Program in Python, Machine Learning, Tableau, SQL Learning from iDmine Institute, Bengaluru.
 
