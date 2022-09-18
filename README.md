@@ -1,23 +1,26 @@
-Hi, I am Manjunath Athani, Postgraduate in  Economics, a lifetime learner, currently working as data analyst in Louis Dreyfus Company. Research and learning new technologies are two of my greatest passions.
+Hi, I am Manjunath Athani, Postgraduate in  Economics, a lifetime learner, currently working as data scientist in Tibil Solutions.
+Research and learning new technologies are two of my greatest passions.
 
 Below is a snapshot of my journey so far,
 
 -Completed my graduation in Agriculture and did a master's in Economics.
 
--Worked as a technical data analyst In NSRC, UAS, Bangalore 
+- Started my carrier as Data analyst in Louis Dreyfus Company. 
 
--Completed Certification Program in Python, Machine Learning, Tableau, SQL Learning from iDmine Institute, Bengaluru.
+- Worked as a technical data analyst In NSRC, UAS, Bangalore 
 
--Working on  credit card default internship in iNeuron company 
+- Completed Certification Program in Python, Machine Learning, Tableau, SQL Learning from iDmine Institute, Bengaluru.
 
--Worked independently on ML models  development and deployed on various cloud platforms. 
+- Working on  credit card default internship in iNeuron company 
 
--I am skilled in Python, SQL, Tableau, Machine Learning, Deep Learning and NLP also have a strong background in Mathematics and Statistics.
+- Worked independently on ML models  development and deployed on various cloud platforms. 
 
--Check out my GitHub profile: https://github.com/Athani-analyst
+- I am skilled in Python, SQL, Tableau, Machine Learning, Deep Learning and NLP also have a strong background in Mathematics and Statistics.
 
--LinkedIn: https://www.linkedin.com/feed/
+- Check out my GitHub profile: https://github.com/Athani-analyst
 
--I am reachable on : manjunathathani97@gmail.com
+- LinkedIn: https://www.linkedin.com/feed/
 
--Mobil: 9480113241
+- I am reachable on : manjunathathani97@gmail.com
+
+- Mobil: 9480113241
